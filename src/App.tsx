@@ -4,6 +4,7 @@ import Home from "./container/home";
 import About from "./container/about";
 import Technologies from "./container/technologies";
 import Experience from "./container/experience";
+import Projects from "./container/projects";
 
 const App: React.FC = () => {
   return (
@@ -17,6 +18,7 @@ const App: React.FC = () => {
         <About />
         <Technologies />
         <Experience />
+        <Projects />
       </div>
     </div>
   );

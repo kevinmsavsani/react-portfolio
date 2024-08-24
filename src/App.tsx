@@ -2,6 +2,7 @@ import React from "react";
 import ProfileNavbar from "./components/navbar/ProfileNavbar";
 import Home from "./container/home";
 import About from "./container/about";
+import Technologies from "./container/technologies";
 
 const App: React.FC = () => {
   return (
@@ -13,6 +14,7 @@ const App: React.FC = () => {
         <ProfileNavbar />
         <Home />
         <About />
+        <Technologies />
       </div>
     </div>
   );

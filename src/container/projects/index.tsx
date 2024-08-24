@@ -1,8 +1,10 @@
 import { useIntl } from "react-intl";
+import projectImg from "../../assets/projects/1.png"
 
 const Projects = () => {
   const intl = useIntl();
   const projectCount = intl.formatMessage({ id: "project-count" });
+
   return (
     <div className="border-b border-neutral-900 pb-24">
       <h1 className="py-10 text-center text-4xl">Project</h1>
@@ -11,7 +13,7 @@ const Projects = () => {
           <div key={i} className="mb-8 flex flex-wrap lg:justify-center">
             <div className="w-full lg:w-1/4">
               <img
-                src={intl.formatMessage({ id: `project-${i + 1}-image` })}
+                src={projectImg}
                 alt={intl.formatMessage({ id: `project-${i + 1}-title` })}
                 width={150}
                 height={150}

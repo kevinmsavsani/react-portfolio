@@ -3,7 +3,7 @@ import about from "../../assets/about.png";
 const About = () => {
   const intl = useIntl();
 
-  const aboutContent = intl.formatMessage({ id: "aboutText" });
+  const aboutContent = intl.formatMessage({ id: "about-text" });
   return (
     <div className="border border-neutral-900 pb-4">
       <h1 className="py-10 text-center text-4xl">

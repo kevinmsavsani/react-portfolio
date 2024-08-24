@@ -1,33 +1,21 @@
 {
-    "homeContent": "I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.",
-    "aboutText": "I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 4 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.",
-    "experiences": [
-      {
-        "year": "2020 - Present",
-        "role": "Full Stack Developer",
-        "company": "Tesco",
-        "description": "Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.",
-        "technologies": ["Javascript", "React.js", "Next.js", "Postgres"]
-      }
-    ],
-    "projects": [
-      {
-        "title": "Portfolio Website",
-        "image": "profile1",
-        "description": "A personal portfolio website showcasing projects, skills, and contact information.",
-        "technologies": ["HTML", "CSS", "React"]
-      },
-      {
-        "title": "Blogging Platform",
-        "image": "profile1",
-        "description": "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-        "technologies": ["HTML", "CSS", "Express", "Postgres"]
-      }
-    ],
-    "contact": {
-      "address": "41 - Chitrakutdham Society, B/H SNK School, Rajkot, Gujarat, India-360005",
-      "phoneNo": "+91 9537960559",
-      "email": "kevinmsavsani@gmail.com"
-    }
-  }
-  
+  "home-content": "I am a passionate full stack developer with a knack for crafting robust and scalable web applications. With 5 years of hands-on experience, I have honed my skills in front-end technologies like React and Next.js, as well as back-end technologies like Node.js, MySQL, PostgreSQL, and MongoDB. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.",
+  "about-text": "I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 4 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.",
+  "experience-count": "1",
+  "experience-1-year": "2020 - Present",
+  "experience-1-role": "Full Stack Developer",
+  "experience-1-company": "Tesco",
+  "experience-1-description": "Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with Postgres databases. Collaborated with stakeholders to define project requirements and timelines.",
+  "experience-1-technologies": "Javascript, React.js, Next.js, Postgres",
+  "project-1-title": "Portfolio Website",
+  "project-1-image": "profile1",
+  "project-1-description": "A personal portfolio website showcasing projects, skills, and contact information.",
+  "project-1-technologies": "HTML, CSS, React",
+  "project-2-title": "Blogging Platform",
+  "project-2-image": "profile1",
+  "project-2-description": "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
+  "project-2-technologies": "HTML, CSS, Express, Postgres",
+  "contact-address": "41 - Chitrakutdham Society, B/H SNK School, Rajkot, Gujarat, India-360005",
+  "contact-phone-no": "+91 9537960559",
+  "contact-email": "kevinmsavsani@gmail.com"
+}

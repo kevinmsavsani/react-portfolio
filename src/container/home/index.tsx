@@ -3,7 +3,7 @@ import profile from "../../assets/profile.jpg";
 const Home = () => {
   const intl = useIntl();
 
-  const homeContent = intl.formatMessage({ id: "homeContent" });
+  const homeContent = intl.formatMessage({ id: "home-content" });
   return (
     <div className="border border-neutral-900 pb-4">
       <div className="flex flex-wrap">
